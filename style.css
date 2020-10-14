@@ -6,9 +6,21 @@ body{
     background-color: #eeeeee;
     border-radius: 10px;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-    order: 1;
+    margin: 3rem;
+    padding: 3rem;
 }
 
 .navbar__container {
     background-color: #eeeeee;
+}
+
+.navbar__container-brand {
+    color: #303841;
+    font-weight: 800;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
 }
