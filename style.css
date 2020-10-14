@@ -1,5 +1,7 @@
 body{
     background-color: #d72323;
+    display: flex;
+    justify-content: center;
 }
 
 .main__div {
