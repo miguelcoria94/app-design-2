@@ -1,0 +1,14 @@
+body{
+    background-color: #d72323;
+}
+
+.main__div {
+    background-color: #eeeeee;
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    order: 1;
+}
+
+.navbar__container {
+    background-color: #eeeeee;
+}
