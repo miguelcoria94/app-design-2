@@ -1,11 +1,32 @@
 body {
-	background: yellowgreen;
+	background: #fddb3a;
+	margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .container {
+	margin-top: 5rem;
+	padding: 6rem;
 	background-color: white;
+	border-radius: 10px;
+	align-items: center;
 }
 
 .main_section__container-title{
 	text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+	padding: 0;
+	margin-left: 1rem;
+	margin-right: 1rem;
+    }
+
+    button {
+	font-size: 1.2rem;
+	
+    }
 }
