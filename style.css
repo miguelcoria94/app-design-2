@@ -1,26 +1,11 @@
-body{
-    background-color: #d72323;
-    display: flex;
-    justify-content: center;
+body {
+	background: yellowgreen;
 }
 
-.main__div {
-    background-color: #eeeeee;
-    border-radius: 10px;
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-    margin: 2rem;
-    padding: 1rem;
+.main_section__container {
+	background-color: white;
 }
 
-.navbar__container {
-    background-color: #eeeeee;
-}
-
-.navbar__container-brand {
-    color: #303841;
-    font-weight: 800;
-}
-
-@media only screen and (max-width: 600px) {
-
+.main_section__container-title{
+	text-align: center;
 }
