@@ -7,8 +7,12 @@ body {
 }
 
 .container {
+	text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 	margin-top: 5rem;
-	padding: 6rem;
+	padding: 5rem;
 	background-color: white;
 	border-radius: 10px;
 	align-items: center;
@@ -20,7 +24,7 @@ body {
 
 @media screen and (max-width: 600px) {
     .container {
-	padding: 0;
+	padding-top: 5rem;
 	margin-left: 1rem;
 	margin-right: 1rem;
     }
