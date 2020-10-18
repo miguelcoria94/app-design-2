@@ -10,6 +10,8 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+
+
 .navbar__balance {
     font-size: 1.5rem;
 }
@@ -24,7 +26,8 @@ h1 {
     align-items: center;
     justify-content: center;
 	margin-top: 1rem;
-	padding: 12rem;
+	margin-bottom: 1rem;
+	padding: 16rem;
 	background-color: white;
 	border-radius: 10px;
 	align-items: center;
@@ -49,3 +52,5 @@ h1 {
 	
     }
 }
+
+
