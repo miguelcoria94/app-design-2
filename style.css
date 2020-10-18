@@ -1,19 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+
+
 body {
 	background: #fddb3a;
 	margin: 0;
     text-align: center;
-    justify-content: center;
+	justify-content: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbar__balance {
+    font-size: 1.5rem;
+}
+
+h1 {
+	font-weight: 800;
 }
 
 .header__container {
-
-
-
 	text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-	margin-top: 5rem;
+	margin-top: 1rem;
 	padding: 12rem;
 	background-color: white;
 	border-radius: 10px;
@@ -23,6 +33,7 @@ body {
 
 .main_section__container-title{
 	text-align: center;
+	font-size: 6rem;
 }
 
 @media screen and (max-width: 600px) {
