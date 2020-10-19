@@ -136,7 +136,7 @@ h1 {
     align-items: center;
     justify-content: center;
 	margin-top: 1rem;
-	margin-bottom: 1rem;
+	margin-bottom: 3rem;
 	padding: 16rem;
 	background-color: white;
 	border-radius: 10px;
@@ -146,7 +146,7 @@ h1 {
 
 .main_section__container-title{
 	text-align: center;
-	font-size: 6rem;
+	font-size: 5rem;
 }
 
 
